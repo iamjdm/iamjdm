@@ -1,43 +1,32 @@
-🌟 About Me
+# 🌟 About Me
 
-Hello! I'm [Your Name], an aspiring front‑end developer passionate about creating beautiful, responsive, and user‑friendly interfaces. I love turning design ideas into reality with clean, efficient code. Currently based in Tinley Park, Illinois, I'm honing my skills in web technologies and always eager to learn new tools and frameworks.
+Hello! I'm **[Your Name]**, an entry-level front-end developer passionate about creating clean, responsive, and user-friendly web applications. I enjoy turning ideas into functional designs using core web technologies, and I’m focused on continually improving my skills as I grow into a professional developer.
 
-🚀 Tech Stack
+---
 
-Here are some technologies and tools I work with regularly:
+## 🚀 Tech Stack
 
-Languages: JavaScript, HTML5, CSS3, TypeScript
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)  
+- **Tools & Platforms:** Git & GitHub, VS Code  
 
-Frameworks/Libraries: React, Vue.js, Svelte
+---
 
-Tools & Platforms: Git & GitHub, VS Code, Node.js, Webpack, Tailwind CSS
+## 💼 Projects
 
-Design: Figma, Adobe XD
+Here are a few sample projects (placeholders for now):
 
-💼 Projects
-🎨 Portfolio Website
+- **Portfolio Website** – A responsive personal website to showcase skills and projects.  
+- **Interactive Web App** – A JavaScript-based app demonstrating DOM manipulation and user interaction.  
+- **Coursework Project** – A front-end project developed as part of my studies, focusing on layout and accessibility.  
 
-A responsive personal portfolio built with React and styled‑components. It showcases projects, skills, and includes a contact form. Live demo available at your‑portfolio‑link.com
-.
+---
 
-📱 Mobile Interface Mockup
+## 📫 Contact
 
-Collaborated on a mobile‑first web application using Vue.js and Tailwind CSS that provides real‑time weather updates with a sleek user interface.
+You can reach me here (placeholders — replace when ready):  
+- **Email:** your.email@example.com  
+- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 
-🛠 Open Source Contributions
+---
 
-Contributed to the XYZ open source project
- by implementing a feature that improved user interaction and accessibility.
-
-📊 GitHub Stats
-
-📫 Let's Connect
-
-I'm always open to connecting with fellow developers and collaborators. Feel free to reach out if you'd like to discuss projects, share ideas, or just chat about technology!
-
-Contact Method	Information
-Email	your.email@example.com
-
-LinkedIn	linkedin.com/in/yourname
-
-Twitter	@yourhandle
+⭐️ *This repository contains my GitHub profile README.*
