@@ -1,6 +1,8 @@
 # 🌟 About Me
 
-Hello! I'm **[Your Name]**, an entry-level front-end developer passionate about creating clean, responsive, and user-friendly web applications. I enjoy turning ideas into functional designs using core web technologies, and I’m focused on continually improving my skills as I grow into a professional developer.
+Hello! I'm **[Your Name]**, an entry-level front-end developer passionate about building responsive, accessible, and user-friendly web applications. I enjoy turning design ideas into functional solutions using modern web technologies.  
+
+I recently contributed to a **NASA-funded research project at Notre Dame University**, where I developed a front-end GUI flowchart design to improve human-error handling in drone systems. This experience deepened my interest in combining front-end engineering with real-world problem solving.  
 
 ---
 
@@ -11,19 +13,18 @@ Hello! I'm **[Your Name]**, an entry-level front-end developer passionate about 
 
 ---
 
+## 🛰 Research Experience
+
+- **NASA / Notre Dame University – GUI Flowchart Design (Summer Program)**  
+  Designed and implemented a **front-end graphical interface flowchart** to support drone research. The project focused on modeling human error in automated systems, improving usability, and making technical research tools more accessible.  
+
+---
+
 ## 💼 Projects
 
-### 🛰 NASA/Notre Dame GUI Flowchart Design
-Developed a **front-end graphical user interface flowchart design** during a summer research project at Notre Dame University, sponsored by **NASA**. The work focused on improving human-error handling in drone systems and designing a user-friendly interface for research purposes.  
-
-### 📂 Portfolio Website *(placeholder)*
-A responsive personal website to showcase skills and projects.  
-
-### ⚡ Interactive Web App *(placeholder)*
-A JavaScript-based app demonstrating DOM manipulation and user interaction.  
-
-### 🎓 Coursework Project *(placeholder)*
-A front-end project developed as part of my studies, focusing on layout and accessibility.  
+- **Portfolio Website (placeholder)** – A responsive personal website to showcase skills and projects.  
+- **Interactive Web App (placeholder)** – A JavaScript-based app demonstrating DOM manipulation and user interaction.  
+- **Coursework Project (placeholder)** – A front-end project developed as part of my studies, focusing on layout and accessibility.  
 
 ---
 
