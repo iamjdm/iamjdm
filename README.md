@@ -13,11 +13,17 @@ Hello! I'm **[Your Name]**, an entry-level front-end developer passionate about 
 
 ## 💼 Projects
 
-Here are a few sample projects (placeholders for now):
+### 🛰 NASA/Notre Dame GUI Flowchart Design
+Developed a **front-end graphical user interface flowchart design** during a summer research project at Notre Dame University, sponsored by **NASA**. The work focused on improving human-error handling in drone systems and designing a user-friendly interface for research purposes.  
 
-- **Portfolio Website** – A responsive personal website to showcase skills and projects.  
-- **Interactive Web App** – A JavaScript-based app demonstrating DOM manipulation and user interaction.  
-- **Coursework Project** – A front-end project developed as part of my studies, focusing on layout and accessibility.  
+### 📂 Portfolio Website *(placeholder)*
+A responsive personal website to showcase skills and projects.  
+
+### ⚡ Interactive Web App *(placeholder)*
+A JavaScript-based app demonstrating DOM manipulation and user interaction.  
+
+### 🎓 Coursework Project *(placeholder)*
+A front-end project developed as part of my studies, focusing on layout and accessibility.  
 
 ---
 
