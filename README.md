@@ -1,6 +1,7 @@
 # 🌟 About Me
 
 Hello! I'm **[Your Name]**, an entry-level front-end developer passionate about building responsive, accessible, and user-friendly web applications. I enjoy turning design ideas into functional solutions using modern web technologies.  
+
 ---
 
 ## 🚀 Tech Stack
