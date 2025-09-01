@@ -1,9 +1,6 @@
 # 🌟 About Me
 
 Hello! I'm **[Your Name]**, an entry-level front-end developer passionate about building responsive, accessible, and user-friendly web applications. I enjoy turning design ideas into functional solutions using modern web technologies.  
-
-I recently contributed to a **NASA-funded research project at Notre Dame University**, where I designed a front-end GUI flowchart system to improve human-error handling in drone research. This experience strengthened my skills in user-focused design and applying front-end development in real-world scenarios.  
-
 ---
 
 ## 🚀 Tech Stack
