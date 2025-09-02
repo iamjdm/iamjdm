@@ -1,5 +1,4 @@
 # 🌟 About Me
-
 Hello! I'm **[Your Name]**, an entry-level front-end developer passionate about building responsive, accessible, and user-friendly web applications. I enjoy turning design ideas into functional solutions using modern web technologies.  
 
 I recently contributed to a **NASA-funded research project at Notre Dame University**, where I designed a front-end GUI flowchart system to improve human-error handling in drone research. This experience strengthened my skills in user-focused design and applying front-end development in real-world scenarios.  
@@ -7,14 +6,12 @@ I recently contributed to a **NASA-funded research project at Notre Dame Univers
 ---
 
 ## 🚀 Tech Stack
-
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)  
 - **Tools & Platforms:** Git & GitHub, VS Code  
 
 ---
 
 ## 🛰 Research Experience
-
 **NASA / Notre Dame University – GUI Flowchart Design (Summer Program)**  
 *Summer [Year]*  
 
@@ -26,10 +23,10 @@ I recently contributed to a **NASA-funded research project at Notre Dame Univers
 ---
 
 ## 💼 Projects
-
-- **Portfolio Website (placeholder)** – A responsive personal website to showcase skills and projects:  
+- **🌐 Web Portfolio (placeholder)** – A responsive personal website to showcase skills, projects, and contact info:  
   - Built with HTML5, CSS3, and JavaScript.  
   - Designed to adapt across devices with a clean layout.  
+  - [View Portfolio](https://yourportfolio.com)  
 
 - **Interactive Web App (placeholder)** – A JavaScript-based app demonstrating DOM manipulation and user interaction:  
   - Features dynamic updates and event-driven behavior.  
@@ -42,10 +39,10 @@ I recently contributed to a **NASA-funded research project at Notre Dame Univers
 ---
 
 ## 📫 Contact
-
 You can reach me here (placeholders — replace when ready):  
 - **Email:** your.email@example.com  
 - **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
 
 ---
 
