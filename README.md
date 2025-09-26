@@ -1,49 +1,39 @@
-# 🌟 About Me
-Hello! I'm **[Your Name]**, an entry-level front-end developer passionate about building responsive, accessible, and user-friendly web applications. I enjoy turning design ideas into functional solutions using modern web technologies.  
+# Hi there 👋
 
-I recently contributed to a **NASA-funded research project at Notre Dame University**, where I designed a front-end GUI flowchart system to improve human-error handling in drone research. This experience strengthened my skills in user-focused design and applying front-end development in real-world scenarios.  
+I'm an entry-level front-end developer building websites with HTML, CSS, and JavaScript.
 
----
+## I love working with
 
-## 🚀 Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)  
-- **Tools & Platforms:** Git & GitHub, VS Code  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
+## 🔨 I'm working on
 
-## 🛰 Research Experience
-**NASA / Notre Dame University – GUI Flowchart Design (Summer Program)**  
-*Summer [Year]*  
+- Building my first portfolio website
+- Learning JavaScript fundamentals
+- Practicing responsive design
+- Contributing to open source projects
 
-- Designed and implemented a **front-end graphical user interface flowchart** to support drone research:  
-  - Focused on **modeling and reducing human error** in automated drone systems.  
-  - Collaborated with researchers to ensure the interface was **intuitive and user-friendly**.  
-  - Sponsored and funded by **NASA**, providing exposure to high-standard research practices.  
+## 📚 I'm learning
 
----
+- Modern JavaScript frameworks
+- UI/UX design principles
+- Web accessibility best practices
+- Version control with Git
 
-## 💼 Projects
-- **🌐 Web Portfolio (placeholder)** – A responsive personal website to showcase skills, projects, and contact info:  
-  - Built with HTML5, CSS3, and JavaScript.  
-  - Designed to adapt across devices with a clean layout.  
-  - [View Portfolio](https://yourportfolio.com)  
+## 🤝 I'm looking for help with
 
-- **Interactive Web App (placeholder)** – A JavaScript-based app demonstrating DOM manipulation and user interaction:  
-  - Features dynamic updates and event-driven behavior.  
-  - Highlights core front-end problem-solving skills.  
+- Entry-level front-end opportunities
+- Code review and feedback
+- Connecting with other developers
 
-- **Coursework Project (placeholder)** – A front-end project developed as part of my studies:  
-  - Emphasized responsive design and accessibility.  
-  - Applied best practices in clean and semantic HTML/CSS.  
+## 🛰️ Fun fact
 
----
+I contributed to NASA-funded drone research at Notre Dame University by designing a GUI flowchart system
 
-## 📫 Contact
-You can reach me here (placeholders — replace when ready):  
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+## 📫 How to reach me
 
----
-
-⭐️ *This repository contains my GitHub profile README.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firstname.lastname@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
