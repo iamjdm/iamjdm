@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an entry-level front-end developer building websites with HTML, CSS, and JavaScript.
+I'm an entry-level front-end developer building responsive websites.
 
 ## I love working with
 
