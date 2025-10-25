@@ -19,7 +19,7 @@ I'm a front-end developer building responsive websites.
 - Version control with Git
 
 ## 💼 Featured Projects
-**[NASA Drone Safety Flowchart System](https://github.com/iamjdm/ND-drone-flowchart/tree/main/ND-drone-flowchart)** - Interactive GUI for visualizing drone safety protocols in NASA-funded research at Notre Dame University. Built with Cytoscape.js for real-time graph editing, automated layouts, and JSON import/export.
+**[NASA Drone Safety Flowchart System](https://github.com/iamjdm/ND-drone-flowchart/tree/main)** - Interactive GUI for visualizing drone safety protocols in NASA-funded research at Notre Dame University. Built with Cytoscape.js for real-time graph editing, automated layouts, and JSON import/export.
 
 ## 🤝 Let's Connect
 I'm interested in:
