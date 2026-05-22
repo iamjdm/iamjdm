@@ -22,7 +22,7 @@ I'm a **full-stack developer** who builds database-driven web applications with 
 
 ## 💼 Featured Projects
 
-### **[TeaZen Boba Bar](https://github.com/iamjdm/Boba_Shop_Senior_Seminar)** — Full-Stack Capstone Project
+### **[TeaZen Boba Bar](https://github.com/iamjdm/Boba_Shop)** — Full-Stack Capstone Project
 *Senior seminar project demonstrating modern full-stack web development*
 
 A complete web platform for a boba shop featuring:
